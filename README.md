@@ -1,5 +1,5 @@
- 🥷🏾 David </br>
-Java Euthusiast </br>
+Am David 🥷🏾 </br>
+idk what to put here </br>
 
 <!---
 RekiDaveed/RekiDaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
