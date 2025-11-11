@@ -1,10 +1,6 @@
-- 👋 Hi, I’m David
-- 👀 I’m interested in Coding mostly Frontend for Web and potential to Game dev...
-- 🌱 I’m currently learning HTML, Css, Javascript + Frameworks, Luau, Typescript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: i like the smell of gasoline.
+David 
+Interested in Fullstack Dev
+html, css, luau, javascript, java 
 
 <!---
 RekiDaveed/RekiDaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
