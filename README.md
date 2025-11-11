@@ -1,6 +1,7 @@
-David 
-Interested in Fullstack Dev
-html, css, luau, javascript, java 
+ --  David 
+ -- Interested in Fullstack Dev
+ -- html, css, luau, javascript, java 
+
 
 <!---
 RekiDaveed/RekiDaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
