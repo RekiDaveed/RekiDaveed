@@ -1,6 +1,8 @@
 Am David </br>
 idk what to put here </br>
-Student At Humber College 
+Student At Humber College </br>
+daveedtee5@gmail.com </br>
+
 
 <!---
 RekiDaveed/RekiDaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
