@@ -1,7 +1,8 @@
-Am David </br>
-idk what to put here </br>
-Student At Humber College </br>
-daveedtee5@gmail.com </br>
+David </br>
+Student At Humber College Studying Computer Engineering </br>
+Contact @ daveedtee5@gmail.com </br>
+linkedin.com/in/daveedtee </br>
+Interest in Fullstack 
 
 
 <!---
