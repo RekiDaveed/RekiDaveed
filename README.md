@@ -1,7 +1,7 @@
 David </br>
 Student At Humber College Studying Computer Engineering </br>
 Contact @ daveedtee5@gmail.com </br>
-linkedin.com/in/daveedtee </br>
+https://www.linkedin.com/in/daveedtee/ </br>
 Interest in Fullstack Development
 
 
